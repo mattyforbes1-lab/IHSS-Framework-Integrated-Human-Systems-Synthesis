@@ -53,9 +53,9 @@ IHSS is designed as an evolving framework rather than a closed ideology. It cont
 
 
 IHSS FRAMEWORK
-=========================================
+==============
 INTEGRATED HUMAN SIGNAL SYSTEM
-=========================================
+==============
 
 CORE PURPOSE:
 The IHSS Framework is a multi-domain human systems intelligence model designed to:
@@ -77,9 +77,9 @@ The system combines:
 - information theory,
 - and adaptive intelligence systems.
 
-=========================================
+===============
 CORE PHILOSOPHY
-=========================================
+===============
 
 Humans are not isolated units.
 
@@ -125,9 +125,9 @@ THE 12 CORE DOMAINS
 11. COMMUNITY & CONNECTION
 12. WHOLENESS TRAJECTORY
 
-=========================================
+=================
 1. TRAUMA DYNAMICS
-=========================================
+=================
 
 PURPOSE:
 Detect unresolved psychological stress loops.
@@ -153,9 +153,9 @@ OUTPUTS:
 - loop amplification risk
 - healing trajectory
 
-=========================================
+===============
 2. IDENTITY STRUCTURE
-=========================================
+===============
 
 PURPOSE:
 Measure identity coherence and fragmentation.
@@ -180,9 +180,9 @@ OUTPUTS:
 - identity coherence index
 - fragmentation map
 
-=========================================
+================
 3. DOPAMINE & REWARD LOOPS
-=========================================
+================
 
 PURPOSE:
 Model addictive behavioural reinforcement systems.
@@ -210,9 +210,9 @@ OUTPUTS:
 - reward instability
 - dopamine fatigue index
 
-=========================================
+===============
 4. NARRATIVE CONDITIONING
-=========================================
+===============
 
 PURPOSE:
 Detect externally implanted belief structures.
@@ -236,9 +236,9 @@ OUTPUTS:
 - critical thinking stability
 - manipulation vulnerability
 
-=========================================
+================
 5. SOCIAL PRESSURE SYSTEMS
-=========================================
+================
 
 PURPOSE:
 Analyse behavioural conformity pressure.
@@ -257,9 +257,9 @@ OUTPUTS:
 - isolation load
 - social resilience
 
-=========================================
+=================
 6. INFORMATION ECOLOGY
-=========================================
+=================
 
 PURPOSE:
 Analyse informational environments.
@@ -283,9 +283,9 @@ OUTPUTS:
 - informational toxicity
 - cognitive coherence
 
-=========================================
+=================
 7. EMOTIONAL REGULATION
-=========================================
+=================
 
 PURPOSE:
 Measure emotional adaptability.
@@ -303,9 +303,9 @@ OUTPUTS:
 - resilience index
 - instability probability
 
-=========================================
+===============
 8. SOVEREIGNTY & AGENCY
-=========================================
+===============
 
 PURPOSE:
 Measure autonomous decision capability.
@@ -322,9 +322,9 @@ OUTPUTS:
 - agency stability
 - manipulation resistance
 
-=========================================
+===============
 9. TECHNOLOGICAL INFLUENCE
-=========================================
+===============
 
 PURPOSE:
 Measure technological behavioural shaping.
@@ -342,9 +342,9 @@ OUTPUTS:
 - digital autonomy
 - behavioural shaping probability
 
-=========================================
+==============
 10. ECONOMIC STRESS LOAD
-=========================================
+==============
 
 PURPOSE:
 Measure economic psychological pressure.
@@ -361,9 +361,9 @@ OUTPUTS:
 - burnout probability
 - survival stress load
 
-=========================================
+===============
 11. COMMUNITY & CONNECTION
-=========================================
+===============
 
 PURPOSE:
 Measure healthy social integration.
@@ -380,9 +380,9 @@ OUTPUTS:
 - social healing capacity
 - isolation risk
 
-=========================================
+================
 12. WHOLENESS TRAJECTORY
-=========================================
+================
 
 PURPOSE:
 Measure movement toward integrated functioning.
@@ -401,9 +401,9 @@ OUTPUTS:
 - flourishing probability
 - long-term recovery trajectory
 
-=========================================
+================
 IHSS FEEDBACK LOOP ENGINE
-=========================================
+================
 
 The framework operates through recursive loops:
 
@@ -423,9 +423,9 @@ NEGATIVE LOOPS:
 - manipulation
 - learned helplessness
 
-=========================================
+================
 CORE IHSS EQUATION
-=========================================
+================
 
 Human State =
 (Biology + Psychology + Environment +
@@ -439,9 +439,9 @@ Distortion Forces =
 Addiction + Chronic Stress +
 Narrative Capture)
 
-=========================================
+==============
 WHOLENESS MODEL
-=========================================
+==============
 
 Wholeness occurs when:
 
@@ -452,9 +452,9 @@ Wholeness occurs when:
 - technology serves humanity,
 - and the individual retains agency.
 
-=========================================
+===============
 IHSS DETECTION ENGINE
-=========================================
+===============
 
 The system should detect:
 
@@ -467,9 +467,9 @@ The system should detect:
 - emotional destabilisation
 - systemic pressure cascades
 
-=========================================
+===============
 IHSS RECOVERY ENGINE
-=========================================
+===============
 
 Recovery systems include:
 
@@ -482,9 +482,9 @@ Recovery systems include:
 - critical thinking restoration
 - sovereignty rebuilding
 
-=========================================
+==============
 IHSS OUTPUT TYPES
-=========================================
+==============
 
 1. Psychological maps
 2. Behavioural forecasts
@@ -495,9 +495,9 @@ IHSS OUTPUT TYPES
 7. Recovery optimisation plans
 8. Environmental alignment reports
 
-=========================================
+=================
 IHSS APPLICATIONS
-=========================================
+=================
 
 - mental health systems
 - education reform
@@ -510,9 +510,9 @@ IHSS APPLICATIONS
 - systems science
 - societal resilience planning
 
-=========================================
+==============
 FINAL PURPOSE
-=========================================
+==============
 
 IHSS is designed to help humanity:
 - understand itself,

@@ -108,9 +108,9 @@ IHSS exists to:
 - model their propagation,
 - and restore healthy human functioning.
 
-=========================================
+==============
 THE 12 CORE DOMAINS
-=========================================
+==============
 
 1. TRAUMA DYNAMICS
 2. IDENTITY STRUCTURE
